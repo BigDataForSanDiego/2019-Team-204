@@ -5,7 +5,7 @@
 #### Team Name: `FAME`    
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `Our project focuses on helping elderly people who suffer from Alzheimer's and other similar diseases. The goal is`
+##### `Our project focuses on helping elderly people who suffer from Alzheimer's and other similar diseases. The goal is
 to develop a tracking device that notifies users when the elderly gets out of their daily routine`  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
