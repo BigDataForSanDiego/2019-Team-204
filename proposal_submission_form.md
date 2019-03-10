@@ -12,7 +12,7 @@
 - ##### `San Diego Elder Dementia`
 - ##### `https://data.sandiegodata.org/dataset/sandiegocounty-gov-adod-2012-sra-3`
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `nnizh13`
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
